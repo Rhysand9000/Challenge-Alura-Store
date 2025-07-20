@@ -48,3 +48,28 @@ Tras analizar los datos y visualizaciones, se recomienda **cerrar la Tienda 4**,
 
 ## 📂 Estructura del proyecto
 
+```
+📦 analisis-alura-store/
+├── data/                # Archivos CSV de las tiendas
+├── notebooks/           # Notebook de análisis en Colab
+├── visualizaciones/     # Gráficos generados
+├── README.md            # Este archivo
+└── recomendacion.txt    # Recomendación escrita final
+```
+
+---
+
+## 🚀 Cómo usar este proyecto
+
+1. Clona este repositorio:  
+   `git clone https://github.com/tu_usuario/analisis-alura-store.git`
+
+2. Abre el notebook en Google Colab
+
+3. Ejecuta el análisis y observa los gráficos
+
+---
+
+## 🙌 Autor
+
+Proyecto realizado por **Renzo Echevarria** como parte del desafío de Alura Latam - Ciencia de Datos.
